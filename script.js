@@ -16,7 +16,7 @@ const jsGitBtn = document.querySelector(".gitBtn-js");
 const images = [
   "flappybird.png",
   "diceGame.png",
-  "dadjoke.png",
+  "dadJoke.png",
   "GuessMyNumber.png",
 ];
 
